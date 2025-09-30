@@ -1,0 +1,162 @@
+WS8
+Low latency architecture
+edge-compute clusters in London
+
+Joris Putteneers
+
+
+
+
+
+Amazon server farms
+The most significant architectural typologies in the world are now almost entirely empty of people, forming perhaps the largest cultural landscape in human history. If we follow every fiber-optic cable across the world, we would end up in unfamiliar places like these: autonomous server farms, power plants, fog nodes, AI superclusters, edge computing facilities, transmission hubs, and data centers.
+
+
+
+
+
+
+memphis supercluster
+X ai hyperscale cluster, most powerful compute infrastructure in the world
+ As seen here, the most powerful hyperscaler in the world. X ai from elon musk
+
+Every era has had its own iconic architectural typology.In medieval times, this was once the church; modernism had the factory and then the house. In the past decade, we celebrated the decadent museum and gallery. Now, we have data centers and computing facilities.
+
+
+
+
+
+
+
+memphis supercluster
+X ai hyperscale cluster, facade and interior
+yet it turns its back on any expression of that significance. At first glance, there appears to be little architecture here. No grand monumental gesture, just row upon row of identical floor-to-ceiling frames for future server stacks, spinning and writing the lives of millions of global users while being controlled by only a handful of engineers.
+
+
+
+
+
+
+
+Waltham Cross google data center
+Waltham Cross, north of London, home to Google
+One such facility is currently being constructed in Waltham Cross, north of London, home to Google. This new £5 billion investment in an AI supercluster contains 1.77 petabytes of shared memory and is estimated to generate five times the CO2 emissions of Birmingham's airport.
+
+Susquehanna nuclear plant in Salem Township, Penn., along with the amazon data center in foreground.
+
+The geographical location of a compute cluster is critical, depending on its function. 
+
+If you are building for raw computation, such as AI learning and training clusters, it is essential that your facility has direct access to the electricity grid.
+
+
+Project navick, underwater datacenters from Microsoft.
+Lefdal mine datacenter 
+If you are optimizing for performance or efficiency, as with hyperscale facilities or data processing units, locating near water or in a cave can be a viable strategy, as it provides cost-effective cooling solutions. As here shown the microsoft compute cluster in the atlantic ocean, using seawater as a cooling agent, or on the right the datacenter that is located in the lefdal min where the cool underground temperatures keep the temperatures down 
+
+
+
+
+Mediated city
+
+If you want to optimize for fast communication  or support for high-speed transmission protocols, proximity to users is key 
+
+
+Our cities are increasingly mediated by cameras, automated traffic lights, autonomous vehicles, surveillance systems, while also supporting thousands of Facebook, Snapchat, and X requests every second. Many people work from home, or need to be constantly connected. Additionally, our phones request vast amounts of information, further driving the need for low-latency infrastructure. All of this data needs to be compressed, send, computed, encoded, and decoded in milliseconds. Which has a very big effect on the life quality of qw city.   
+
+
+
+Rai-italian broadcasting firm deploying 18 edge compute clusters
+
+The question of why more centralized data centers are not located in cities largely stems from land scarcity, the difficulty of securing land, and political, economic, and technological requirements.the grid will already be overloaded. This presents an immense challenge, as data centers can sometimes consume up to 5% of a city’s energy. Many cities’ grids struggle to integrate this infrastructure, as they cannot accommodate such heavy power demands. As computational demand in cities rises exponentially, attention is shifting to the fastest-growing segment in the sector: edge data centers.
+
+They bring computing capability geographically closer to users situated farther away, minimizing latency. An edge compute node has different criteria than a data center. It produces a lighter load, is distributed, compliant, and should be more flexible regarding power supply, scalability, heating and cooling, and energy recovery. 
+
+
+
+Being smaller and more available, edge compute clusters offer a new typology to align with the cities ecology and climate. This will be our focus in this workshop.
+
+
+
+
+
+
+Android app computing latency heatmap
+In practice A custom mobile app will be compiled to enable students to measure "network congestion" and "device density," key indicators of computational load per area. 
+The more we walk around in the city, the m,ore accurately this data will become.
+
+
+
+Latency heatmap of a small part in bangkok
+Collected data from all students will be mapped to determine optimal edge compute cluster placement based on a latency heatmap. Additional metrics, such as computational volume (teraflops per cubic meter) and perhaps cluster functionality
+
+
+
+
+Students will identify areas where computational demand exceeds or approaches infrastructure capacity and design parasitic or semi-parasitic edge computing solutions, incorporating innovative cooling, energy, maintenance, and security strategies.
+
+
+
+
+With the given requirements, we can start producing parasitic design variations on the given site that comply with those criteria in a speculative fashion. Some can be big, medium, or small; building regulation, attachment,privacy, distribution material, data encryption protocols.they should have a specific agenda.
+
+
+Different site conditions and relations with the previous building and how do we represent this.
+
+And thinking about security, which is also a question on privacy,k and what you choose to show or not.  All should be taken into account in the design.
+
+
+What you will learn?
+
+Android app deployment basics 
+Basics of server-side computing and small-to-medium-scale app deployment
+Basic Houdini, python, unix, http, api interaction 
+How to visualize data in a meaningful way
+Edge computing understanding
+
+(note: a large portion of the code will be provided, so you will not learn how to build and deploy an app from scratch. But it will give you a good start. Do not expect a programming course)
+
+
+
+
+For who is this workshop?
+
+Urban designers, designers and architects who are technologically inclined and interested
+Building custom data capturing and processing pipelines, and learning how to interpret and design with this information.
+
+
+
+requirements
+
+Android mobile phone (participating with an iPhone will be difficult but doable if needed)
+SideFX Houdini free version
+No programming experience required, but it is helpful
+Rhino, Blender or any other CAD tool
+Sketching and drawing tools
+
+
+
+Calendar
+
+Day 1       Make and install Android APK to + Metadata + Telemetry Data 
+Day 2       collect data 
+Day 3       building latency heatmaps  + Generate building volume + edge compute location
+Days 4-7  houdini intro + Working sessions 
+
+
+
+
+Who am I?
+
+Joris Putteneers
+
+Licensed Architect, software dev
+Building custom hardware and software 
+building design, robotics and embedded system engineering. 
+Currently based in Bangkok. (online only)
+
+
+
+Who am I?
+Joris putteneers
+
+putteneersjoris.xyz

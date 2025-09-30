@@ -144,10 +144,10 @@ Think about: different ways of cooling infrastructure, security, scale, relation
 | **2nd Session** | Thu Oct 2 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Individual | Houdini introduction + Analyze information, pick data chunk, calculate volume + Presentation | - |
 | **3rd Session** | Fri Oct 3 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Generate building volume based on calculated volume + Presentation | Location, function and volume |
 | - | Sat Oct 4 | - | - | - | - | - |
-| **4th Session** | Sun Oct 5 | 9am-11am | 3pm-5pm | Group | Blender and After Effects + Feedback + Working session | - |
+| **4th Session** | Sun Oct 5 | 9am-11am | 3pm-5pm | Group | Feedback + Blender and After Effects workshop + Working session | Drawings and sketches |
 | - | Mon Oct 6 | - | - | - | - | - |
 | **5th Session** | Tue Oct 7 | 1pm-3pm | 7pm-9pm | Group | Houdini renders + Feedback + Working session | - |
-| **6th Session** | Wed Oct 8 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Feedback + Working session | - |
+| **6th Session** | Wed Oct 8 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Feedback + Working session | 3D model and first animation |
 | **7th Session** | Thu Oct 9 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Working session | - |
 | **8th Session** | Fri Oct 10 | 8am-9am, 9am+ | 2pm-3pm, 3pm+ | Group | 1 hour + FINAL PRESENTATIONS (12-min video + 10-min comments) | 12-min video + 10-min comments |
 
@@ -157,6 +157,7 @@ Think about: different ways of cooling infrastructure, security, scale, relation
 - **Unit Presentation**: Monday, September 29th at 10:00 London time
 - **Classes Begin**: Tuesday, September 30th
 - **Final Presentations**: Friday, October 10th from 9:00 onwards London time
+
 ---
 
 ## Tools

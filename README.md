@@ -5,7 +5,8 @@ In this workshop, we will design a state-of-the-art parasitic edge-compute clust
 
 ---
 
-## The Datacenter
+
+## Introduction
 
 The most significant architectural typologies in the world are now almost entirely empty of people, forming perhaps the largest cultural landscape in human history. If we follow every fiber-optic cable across the world, we would end up in unfamiliar places like these: autonomous server farms, power plants, fog nodes, AI superclusters, edge computing facilities, transmission hubs, and data centers.
 
@@ -17,7 +18,7 @@ Every era has had its own iconic architectural typology. In medieval times, this
 
 ---
 
-## Introduction
+## The Datacenter
 
 The geographical location of a compute cluster is critical, depending on its function. For applications requiring fast communication or support for high-speed transmission protocols, proximity to users is key.
 
@@ -205,3 +206,12 @@ Think about: different ways of cooling infrastructure, security, scale, relation
 11. Y. Pi et al., "Latency Imbalance Among Internet Load-Balanced Paths: A Cloud-Centric View," *Proceedings of the ACM on Measurement and Analysis of Computing Systems*, vol. 4, no. 2, Article 32, 2020.
 12. Ultralytics, "FLOPs: Machine Learning Model Computational Complexity," *Technical Documentation*, 2024.
 13. Data Center Frontier, "Immersion Cooling Meets Edge Computing," *Industry Report*, 2023.
+
+
+
+## download android app
+[Download APK](https://raw.githubusercontent.com/archiGrad/Bartlett_ws_2025/main/app-debug.apk)
+
+
+
+

@@ -1,5 +1,14 @@
 # Low-Latency Architecture
 
+
+## Useful Information
+
+- **Download Android App**: [Download APK](https://raw.githubusercontent.com/archiGrad/Bartlett_ws_2025/main/app-debug.apk)
+- **Discord Server**: https://discord.gg/Zy6Uk3nf
+- **Contact**: putteneersjoris@gmail.com
+
+---
+
 ## Synopsis
 In this workshop, we will design a state-of-the-art parasitic edge-compute cluster in London through the lens of an architect.
 
@@ -205,12 +214,4 @@ Think about: different ways of cooling infrastructure, security, scale, relation
 11. Y. Pi et al., "Latency Imbalance Among Internet Load-Balanced Paths: A Cloud-Centric View," *Proceedings of the ACM on Measurement and Analysis of Computing Systems*, vol. 4, no. 2, Article 32, 2020.
 12. Ultralytics, "FLOPs: Machine Learning Model Computational Complexity," *Technical Documentation*, 2024.
 13. Data Center Frontier, "Immersion Cooling Meets Edge Computing," *Industry Report*, 2023.
-
-
-
-## download android app
-[Download APK](https://raw.githubusercontent.com/archiGrad/Bartlett_ws_2025/main/app-debug.apk)
-
-
-
 

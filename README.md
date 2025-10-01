@@ -138,20 +138,18 @@ Think about: different ways of cooling infrastructure, security, scale, relation
 
 ## Schedule
 
-| Session | Date | London Time | Bangkok Time | Individual/Group | Description | Deliverables |
-|---------|------|-------------|--------------|------------------|-------------|--------------|
-| **1st Session** | Wed Oct 1 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Individual | Introduction + Install software + Presentation + Install APK and map London data | - |
-| **2nd Session** | Thu Oct 2 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Individual | Houdini introduction + Analyze information, pick data chunk, calculate volume + Presentation | - |
-| **3rd Session** | Fri Oct 3 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Generate building volume based on calculated volume + Presentation | Location, function and volume |
+| Session | Date | London Time | Bangkok Time | Type | Description | Deliverables |
+|---------|------|-------------|--------------|------|-------------|--------------|
+| **1st** | Wed Oct 1 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Individual | Introduction (2min/student), presentation, app showcase (functionality, data backend, tech stack, Houdini visualization). Install Android app (Bluetooth/data ON). Map London route (groups of 2, touristic/architecture spots, sparse-dense gradient). Install: Houdini, Blender, After Effects | - |
+| **2nd** | Thu Oct 2 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Individual | Houdini intro, analyze data, calculate volume, presentation | - |
+| **3rd** | Fri Oct 3 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Generate building volume, presentation | Location, function, volume |
 | - | Sat Oct 4 | - | - | - | - | - |
-| **4th Session** | Sun Oct 5 | 9am-11am | 3pm-5pm | Group | Feedback + Blender and After Effects workshop + Working session | Drawings and sketches |
+| **4th** | Sun Oct 5 | 9am-11am | 3pm-5pm | Group | Feedback, Blender/After Effects workshop, working session | Drawings, sketches |
 | - | Mon Oct 6 | - | - | - | - | - |
-| **5th Session** | Tue Oct 7 | 1pm-3pm | 7pm-9pm | Group | Houdini renders + Feedback + Working session | - |
-| **6th Session** | Wed Oct 8 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Feedback + Working session | 3D model and first animation |
-| **7th Session** | Thu Oct 9 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Working session | - |
-| **8th Session** | Fri Oct 10 | 8am-9am, 9am+ | 2pm-3pm, 3pm+ | Group | 1 hour + FINAL PRESENTATIONS (12-min video + 10-min comments) | 12-min video + 10-min comments |
-
-*Lunch break: 12pm-1pm London / 6pm-7pm Bangkok (6-hour sessions only)*
+| **5th** | Tue Oct 7 | 1pm-3pm | 7pm-9pm | Group | Houdini renders, feedback, working session | - |
+| **6th** | Wed Oct 8 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Feedback, working session | 3D model, first animation |
+| **7th** | Thu Oct 9 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Working session | - |
+| **8th** | Fri Oct 10 | 8am-9am, 9am+ | 2pm-3pm, 3pm+ | Group | Final presentations (12min video + 10min comments) | 12min video + 10min comments |*Lunch break: 12pm-1pm London / 6pm-7pm Bangkok (6-hour sessions only)*
 
 ### Key Dates
 - **Unit Presentation**: Monday, September 29th at 10:00 London time

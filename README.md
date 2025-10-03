@@ -141,15 +141,17 @@ Think about: different ways of cooling infrastructure, security, scale, relation
 | Session | Date | London Time | Bangkok Time | Type | Description | Deliverables |
 |---------|------|-------------|--------------|------|-------------|--------------|
 | **1st** | Wed Oct 1 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Individual | Introduction (2min/student), presentation, app showcase (functionality, data backend, tech stack, Houdini visualization). Install Android app (Bluetooth/data ON). Map London route (groups of 2, touristic/architecture spots, sparse-dense gradient). Install: Houdini, Blender, After Effects | - |
-| **2nd** | Thu Oct 2 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Individual | Houdini intro, analyze data, calculate volume, presentation | - |
-| **3rd** | Fri Oct 3 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Generate building volume, presentation | Location, function, volume |
+| **2nd** | Thu Oct 2 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Individual | Houdini map showcase, Houdini basics + exercises | - |
+| **3rd** | Fri Oct 3 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Houdini basics + exercises. Tech stack overview, backend server demo, Python file download in Houdini. Form groups of 3-4, load map, pick location, download Google Maps 3D model | Location, function, volume |
 | - | Sat Oct 4 | - | - | - | - | - |
 | **4th** | Sun Oct 5 | 9am-11am | 3pm-5pm | Group | Feedback, Blender/After Effects workshop, working session | Drawings, sketches |
 | - | Mon Oct 6 | - | - | - | - | - |
 | **5th** | Tue Oct 7 | 1pm-3pm | 7pm-9pm | Group | Houdini renders, feedback, working session | - |
 | **6th** | Wed Oct 8 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Feedback, working session | 3D model, first animation |
 | **7th** | Thu Oct 9 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Working session | - |
-| **8th** | Fri Oct 10 | 8am-9am, 9am+ | 2pm-3pm, 3pm+ | Group | Final presentations (12min video + 10min comments) | 12min video + 10min comments |*Lunch break: 12pm-1pm London / 6pm-7pm Bangkok (6-hour sessions only)*
+| **8th** | Fri Oct 10 | 8am-9am, 9am+ | 2pm-3pm, 3pm+ | Group | Final presentations (12min video + 10min comments) | 12min video + 10min comments |
+
+*Lunch break: 12pm-1pm London / 6pm-7pm Bangkok (6-hour sessions only)*
 
 ### Key Dates
 - **Unit Presentation**: Monday, September 29th at 10:00 London time

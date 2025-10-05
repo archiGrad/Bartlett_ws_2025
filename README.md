@@ -144,7 +144,7 @@ Think about: different ways of cooling infrastructure, security, scale, relation
 | **2nd** | Thu Oct 2 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Individual | Houdini map showcase, Houdini basics + exercises | - |
 | **3rd** | Fri Oct 3 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Houdini basics + exercises. Tech stack overview, backend server demo, Python file download in Houdini. Form groups of 3-4, load map, pick location, download Google Maps 3D model | Location, function, volume |
 | - | Sat Oct 4 | - | - | - | - | - |
-| **4th** | Sun Oct 5 | 9am-11am | 3pm-5pm | Group | Feedback, Blender/After Effects workshop, working session | Drawings, sketches |
+| **4th** | Sun Oct 5 | 10am-12am | 4pm-6pm | Group | Feedback, Blender/After Effects workshop, working session | Drawings, sketches |
 | - | Mon Oct 6 | - | - | - | - | - |
 | **5th** | Tue Oct 7 | 1pm-3pm | 7pm-9pm | Group | Houdini renders, feedback, working session | - |
 | **6th** | Wed Oct 8 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Feedback, working session | 3D model, first animation |

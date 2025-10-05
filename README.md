@@ -137,14 +137,13 @@ Think about: different ways of cooling infrastructure, security, scale, relation
 ---
 
 ## Schedule
-
 | Session | Date | London Time | Bangkok Time | Type | Description | Deliverables |
 |---------|------|-------------|--------------|------|-------------|--------------|
 | **1st** | Wed Oct 1 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Individual | Introduction (2min/student), presentation, app showcase (functionality, data backend, tech stack, Houdini visualization). Install Android app (Bluetooth/data ON). Map London route (groups of 2, touristic/architecture spots, sparse-dense gradient). Install: Houdini, Blender, After Effects | - |
 | **2nd** | Thu Oct 2 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Individual | Houdini map showcase, Houdini basics + exercises | - |
 | **3rd** | Fri Oct 3 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Houdini basics + exercises. Tech stack overview, backend server demo, Python file download in Houdini. Form groups of 3-4, load map, pick location, download Google Maps 3D model | Location, function, volume |
 | - | Sat Oct 4 | - | - | - | - | - |
-| **4th** | Sun Oct 5 | 10am-12am | 4pm-6pm | Group | Feedback, Blender/After Effects workshop, working session | Drawings, sketches |
+| **4th** | Sun Oct 5 | 10am-12am | 4pm-6pm | Group | Download app/Houdini updates, verify SideFX Labs install, device filtering, flipbook render, display options setup, location selection | Drawings, sketches |
 | - | Mon Oct 6 | - | - | - | - | - |
 | **5th** | Tue Oct 7 | 1pm-3pm | 7pm-9pm | Group | Houdini renders, feedback, working session | - |
 | **6th** | Wed Oct 8 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Feedback, working session | 3D model, first animation |

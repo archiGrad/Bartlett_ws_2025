@@ -146,11 +146,12 @@ Think about: different ways of cooling infrastructure, security, scale, relation
 | **4th** | Sun Oct 5 | 10am-12am | 4pm-6pm | Group | Download app/Houdini updates, verify SideFX Labs install, device filtering, flipbook render, display options setup, location selection | Drawings, sketches |
 | - | Mon Oct 6 | - | - | - | - | - |
 | **5th** | Tue Oct 7 | 1pm-3pm | 7pm-9pm | Group | feedback, working session | - |
-| **6th** | Wed Oct 8 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Feedback, working session | 3D model, first animation |
+| **6th** | Wed Oct 8 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Feedback, working session. **Afternoon (1:15pm):** Presentations (~15min/group, order: 5→4→3→2→1): flipbook render map+attributes, linear camera animation, export obj, import Rhino model, turntable render model+Google Earth. **Finals prep:** Video 1-3min: 1) mapping strategy, site/context, function, animations; 2) edge compute cluster proposal: function, turntable, architectural/cinematographic overview (isometric, plan, military perspective), section/detail | 3D model, first animation |
 | **7th** | Thu Oct 9 | 9am-12pm, 1pm-4pm | 3pm-6pm, 7pm-10pm | Group | Working session | - |
 | **8th** | Fri Oct 10 | 8am-9am, 9am+ | 2pm-3pm, 3pm+ | Group | Final presentations (12min video + 10min comments) | 12min video + 10min comments |
-
 *Lunch break: 12pm-1pm London / 6pm-7pm Bangkok (6-hour sessions only)*
+
+
 
 ### Key Dates
 - **Unit Presentation**: Monday, September 29th at 10:00 London time

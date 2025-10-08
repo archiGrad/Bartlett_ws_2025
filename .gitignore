@@ -7,3 +7,8 @@
 /tmp_cache
 /cache_bangkok
 /testing
+
+/student_files
+/google_earth_importer/*.png
+/google_earth_importer/*.obj
+/google_earth_importer/*.mtl

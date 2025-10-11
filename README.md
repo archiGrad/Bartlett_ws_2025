@@ -216,3 +216,43 @@ Think about: different ways of cooling infrastructure, security, scale, relation
 12. Ultralytics, "FLOPs: Machine Learning Model Computational Complexity," *Technical Documentation*, 2024.
 13. Data Center Frontier, "Immersion Cooling Meets Edge Computing," *Industry Report*, 2023.
 
+
+
+
+
+
+
+
+## images
+
+### application
+![alt text](./media/phone.png)
+![alt text](./media/1.png)
+![alt text](./media/2.png)
+![alt text](./media/3.png)
+![alt text](./media/4.png)
+![alt text](./media/5.png)
+![alt text](./media/6.png)
+![alt text](./media/7.png)
+![alt text](./media/8.png)
+![alt text](./media/9.png)
+![alt text](./media/10.png)
+![alt text](./media/11.png)
+
+
+
+## studentwork
+
+
+[![Video Title](https://www.youtube.com/watch?v=ii2GW129EBE)](https://www.youtube.com/watch?v=ii2GW129EBE)
+
+
+
+
+
+
+
+
+
+
+

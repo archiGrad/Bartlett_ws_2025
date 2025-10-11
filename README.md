@@ -217,73 +217,25 @@ Think about: different ways of cooling infrastructure, security, scale, relation
 13. Data Center Frontier, "Immersion Cooling Meets Edge Computing," *Industry Report*, 2023.
 
 
-
 ## images
 ### application
-<img src="./media/phone.png" width="200">
-<img src="./media/1.png" width="200">
-<img src="./media/2.png" width="200">
-<img src="./media/3.png" width="200">
-<img src="./media/4.png" width="200">
-<img src="./media/5.png" width="200">
-<img src="./media/6.png" width="200">
-<img src="./media/7.png" width="200">
-<img src="./media/8.png" width="200">
-<img src="./media/9.png" width="200">
-<img src="./media/10.png" width="200">
-<img src="./media/11.png" width="200">
+<img src="./media/phone.png" width="200"> <img src="./media/1.png" width="200"> <img src="./media/2.png" width="200"> <img src="./media/3.png" width="200">
+<img src="./media/4.png" width="200"> <img src="./media/5.png" width="200"> <img src="./media/6.png" width="200"> <img src="./media/7.png" width="200">
+<img src="./media/8.png" width="200"> <img src="./media/9.png" width="200"> <img src="./media/10.png" width="200"> <img src="./media/11.png" width="200">
 
 ## studentwork
-[![Video Title](https://www.youtube.com/watch?v=ii2GW129EBE)](https://www.youtube.com/watch?v=ii2GW129EBE)
+[![Video Title](https://img.youtube.com/vi/ii2GW129EBE/0.jpg)](https://www.youtube.com/watch?v=ii2GW129EBE)
 
-<img src="./media/studentwork_1.png" width="200">
-<img src="./media/studentwork_2.png" width="200">
-<img src="./media/studentwork_3.png" width="200">
-<img src="./media/studentwork_4.png" width="200">
-<img src="./media/studentwork_5.png" width="200">
-<img src="./media/studentwork_6.png" width="200">
-<img src="./media/studentwork_7.png" width="200">
-<img src="./media/studentwork_8.png" width="200">
-<img src="./media/studentwork_9.png" width="200">
-<img src="./media/studentwork_10.png" width="200">
-<img src="./media/studentwork_11.png" width="200">
-<img src="./media/studentwork_12.png" width="200">
-<img src="./media/studentwork_13.png" width="200">
-<img src="./media/studentwork_14.png" width="200">
-<img src="./media/studentwork_15.png" width="200">
-<img src="./media/studentwork_16.png" width="200">
-<img src="./media/studentwork_17.png" width="200">
-<img src="./media/studentwork_18.png" width="200">
-<img src="./media/studentwork_19.png" width="200">
-<img src="./media/studentwork_20.png" width="200">
-<img src="./media/studentwork_21.png" width="200">
-<img src="./media/studentwork_22.png" width="200">
-<img src="./media/studentwork_23.png" width="200">
-<img src="./media/studentwork_24.png" width="200">
-<img src="./media/studentwork_25.png" width="200">
-<img src="./media/studentwork_26.png" width="200">
-<img src="./media/studentwork_27.png" width="200">
-<img src="./media/studentwork_28.png" width="200">
-<img src="./media/studentwork_29.png" width="200">
-<img src="./media/studentwork_30.png" width="200">
-<img src="./media/studentwork_31.png" width="200">
-<img src="./media/studentwork_32.png" width="200">
-<img src="./media/studentwork_33.png" width="200">
-<img src="./media/studentwork_34.png" width="200">
-<img src="./media/studentwork_35.png" width="200">
-<img src="./media/studentwork_36.png" width="200">
-<img src="./media/studentwork_37.png" width="200">
-<img src="./media/studentwork_38.png" width="200">
-<img src="./media/studentwork_39.png" width="200">
-<img src="./media/studentwork_40.png" width="200">
-<img src="./media/studentwork_41.png" width="200">
-<img src="./media/studentwork_42.png" width="200">
-<img src="./media/studentwork_43.png" width="200">
-<img src="./media/studentwork_44.png" width="200">
-<img src="./media/studentwork_45.png" width="200">
-<img src="./media/studentwork_46.png" width="200">
-<img src="./media/studentwork_47.png" width="200">
-<img src="./media/studentwork_48.png" width="200">
-<img src="./media/studentwork_49.png" width="200">
-<img src="./media/studentwork_50.png" width="200">
-<img src="./media/studentwork_51.png" width="200">
+<img src="./media/studentwork_1.png" width="200"> <img src="./media/studentwork_2.png" width="200"> <img src="./media/studentwork_3.png" width="200"> <img src="./media/studentwork_4.png" width="200">
+<img src="./media/studentwork_5.png" width="200"> <img src="./media/studentwork_6.png" width="200"> <img src="./media/studentwork_7.png" width="200"> <img src="./media/studentwork_8.png" width="200">
+<img src="./media/studentwork_9.png" width="200"> <img src="./media/studentwork_10.png" width="200"> <img src="./media/studentwork_11.png" width="200"> <img src="./media/studentwork_12.png" width="200">
+<img src="./media/studentwork_13.png" width="200"> <img src="./media/studentwork_14.png" width="200"> <img src="./media/studentwork_15.png" width="200"> <img src="./media/studentwork_16.png" width="200">
+<img src="./media/studentwork_17.png" width="200"> <img src="./media/studentwork_18.png" width="200"> <img src="./media/studentwork_19.png" width="200"> <img src="./media/studentwork_20.png" width="200">
+<img src="./media/studentwork_21.png" width="200"> <img src="./media/studentwork_22.png" width="200"> <img src="./media/studentwork_23.png" width="200"> <img src="./media/studentwork_24.png" width="200">
+<img src="./media/studentwork_25.png" width="200"> <img src="./media/studentwork_26.png" width="200"> <img src="./media/studentwork_27.png" width="200"> <img src="./media/studentwork_28.png" width="200">
+<img src="./media/studentwork_29.png" width="200"> <img src="./media/studentwork_30.png" width="200"> <img src="./media/studentwork_31.png" width="200"> <img src="./media/studentwork_32.png" width="200">
+<img src="./media/studentwork_33.png" width="200"> <img src="./media/studentwork_34.png" width="200"> <img src="./media/studentwork_35.png" width="200"> <img src="./media/studentwork_36.png" width="200">
+<img src="./media/studentwork_37.png" width="200"> <img src="./media/studentwork_38.png" width="200"> <img src="./media/studentwork_39.png" width="200"> <img src="./media/studentwork_40.png" width="200">
+<img src="./media/studentwork_41.png" width="200"> <img src="./media/studentwork_42.png" width="200"> <img src="./media/studentwork_43.png" width="200"> <img src="./media/studentwork_44.png" width="200">
+<img src="./media/studentwork_45.png" width="200"> <img src="./media/studentwork_46.png" width="200"> <img src="./media/studentwork_47.png" width="200"> <img src="./media/studentwork_48.png" width="200">
+<img src="./media/studentwork_49.png" width="200"> <img src="./media/studentwork_50.png" width="200"> <img src="./media/studentwork_51.png" width="200">

@@ -218,93 +218,72 @@ Think about: different ways of cooling infrastructure, security, scale, relation
 
 
 
-
-
-
-
-
 ## images
-
 ### application
-![alt text](./media/phone.png)
-![alt text](./media/1.png)
-![alt text](./media/2.png)
-![alt text](./media/3.png)
-![alt text](./media/4.png)
-![alt text](./media/5.png)
-![alt text](./media/6.png)
-![alt text](./media/7.png)
-![alt text](./media/8.png)
-![alt text](./media/9.png)
-![alt text](./media/10.png)
-![alt text](./media/11.png)
-
-
+<img src="./media/phone.png" width="200">
+<img src="./media/1.png" width="200">
+<img src="./media/2.png" width="200">
+<img src="./media/3.png" width="200">
+<img src="./media/4.png" width="200">
+<img src="./media/5.png" width="200">
+<img src="./media/6.png" width="200">
+<img src="./media/7.png" width="200">
+<img src="./media/8.png" width="200">
+<img src="./media/9.png" width="200">
+<img src="./media/10.png" width="200">
+<img src="./media/11.png" width="200">
 
 ## studentwork
-
-
 [![Video Title](https://www.youtube.com/watch?v=ii2GW129EBE)](https://www.youtube.com/watch?v=ii2GW129EBE)
-![alt text](./media/studentwork_1.png)
-![alt text](./media/studentwork_2.png)
-![alt text](./media/studentwork_3.png)
-![alt text](./media/studentwork_4.png)
-![alt text](./media/studentwork_5.png)
-![alt text](./media/studentwork_6.png)
-![alt text](./media/studentwork_7.png)
-![alt text](./media/studentwork_8.png)
-![alt text](./media/studentwork_9.png)
-![alt text](./media/studentwork_10.png)
-![alt text](./media/studentwork_11.png)
-![alt text](./media/studentwork_12.png)
-![alt text](./media/studentwork_13.png)
-![alt text](./media/studentwork_14.png)
-![alt text](./media/studentwork_15.png)
-![alt text](./media/studentwork_16.png)
-![alt text](./media/studentwork_17.png)
-![alt text](./media/studentwork_18.png)
-![alt text](./media/studentwork_19.png)
-![alt text](./media/studentwork_20.png)
-![alt text](./media/studentwork_21.png)
-![alt text](./media/studentwork_22.png)
-![alt text](./media/studentwork_23.png)
-![alt text](./media/studentwork_24.png)
-![alt text](./media/studentwork_25.png)
-![alt text](./media/studentwork_26.png)
-![alt text](./media/studentwork_27.png)
-![alt text](./media/studentwork_28.png)
-![alt text](./media/studentwork_29.png)
-![alt text](./media/studentwork_30.png)
-![alt text](./media/studentwork_31.png)
-![alt text](./media/studentwork_32.png)
-![alt text](./media/studentwork_33.png)
-![alt text](./media/studentwork_34.png)
-![alt text](./media/studentwork_35.png)
-![alt text](./media/studentwork_36.png)
-![alt text](./media/studentwork_37.png)
-![alt text](./media/studentwork_38.png)
-![alt text](./media/studentwork_39.png)
-![alt text](./media/studentwork_40.png)
-![alt text](./media/studentwork_41.png)
-![alt text](./media/studentwork_42.png)
-![alt text](./media/studentwork_43.png)
-![alt text](./media/studentwork_44.png)
-![alt text](./media/studentwork_45.png)
-![alt text](./media/studentwork_46.png)
-![alt text](./media/studentwork_47.png)
-![alt text](./media/studentwork_48.png)
-![alt text](./media/studentwork_49.png)
-![alt text](./media/studentwork_50.png)
-![alt text](./media/studentwork_51.png)
 
-
-
-
-
-
-
-
-
-
-
-
+<img src="./media/studentwork_1.png" width="200">
+<img src="./media/studentwork_2.png" width="200">
+<img src="./media/studentwork_3.png" width="200">
+<img src="./media/studentwork_4.png" width="200">
+<img src="./media/studentwork_5.png" width="200">
+<img src="./media/studentwork_6.png" width="200">
+<img src="./media/studentwork_7.png" width="200">
+<img src="./media/studentwork_8.png" width="200">
+<img src="./media/studentwork_9.png" width="200">
+<img src="./media/studentwork_10.png" width="200">
+<img src="./media/studentwork_11.png" width="200">
+<img src="./media/studentwork_12.png" width="200">
+<img src="./media/studentwork_13.png" width="200">
+<img src="./media/studentwork_14.png" width="200">
+<img src="./media/studentwork_15.png" width="200">
+<img src="./media/studentwork_16.png" width="200">
+<img src="./media/studentwork_17.png" width="200">
+<img src="./media/studentwork_18.png" width="200">
+<img src="./media/studentwork_19.png" width="200">
+<img src="./media/studentwork_20.png" width="200">
+<img src="./media/studentwork_21.png" width="200">
+<img src="./media/studentwork_22.png" width="200">
+<img src="./media/studentwork_23.png" width="200">
+<img src="./media/studentwork_24.png" width="200">
+<img src="./media/studentwork_25.png" width="200">
+<img src="./media/studentwork_26.png" width="200">
+<img src="./media/studentwork_27.png" width="200">
+<img src="./media/studentwork_28.png" width="200">
+<img src="./media/studentwork_29.png" width="200">
+<img src="./media/studentwork_30.png" width="200">
+<img src="./media/studentwork_31.png" width="200">
+<img src="./media/studentwork_32.png" width="200">
+<img src="./media/studentwork_33.png" width="200">
+<img src="./media/studentwork_34.png" width="200">
+<img src="./media/studentwork_35.png" width="200">
+<img src="./media/studentwork_36.png" width="200">
+<img src="./media/studentwork_37.png" width="200">
+<img src="./media/studentwork_38.png" width="200">
+<img src="./media/studentwork_39.png" width="200">
+<img src="./media/studentwork_40.png" width="200">
+<img src="./media/studentwork_41.png" width="200">
+<img src="./media/studentwork_42.png" width="200">
+<img src="./media/studentwork_43.png" width="200">
+<img src="./media/studentwork_44.png" width="200">
+<img src="./media/studentwork_45.png" width="200">
+<img src="./media/studentwork_46.png" width="200">
+<img src="./media/studentwork_47.png" width="200">
+<img src="./media/studentwork_48.png" width="200">
+<img src="./media/studentwork_49.png" width="200">
+<img src="./media/studentwork_50.png" width="200">
+<img src="./media/studentwork_51.png" width="200">
